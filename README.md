@@ -3,7 +3,7 @@
 ### Education
 Maths
 
-### work Experience
+### Work Experience
 Data Scientist @ Play
 
 ### Projects
